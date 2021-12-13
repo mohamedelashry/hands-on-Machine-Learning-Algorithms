@@ -1,1 +1,1 @@
-# hands-on-Machine-Learning-Algorithms
+# Machine-Learning-Algorithms
